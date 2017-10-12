@@ -1,0 +1,27 @@
+C:\Users\LeakSun\AppData\Local\Temporary Projects\SADPOS\bin\Debug\SADPOS.exe.config
+C:\Users\LeakSun\Documents\Visual Studio 2012\Projects\SADPOS\SADPOS\bin\Debug\SADPOS.exe.config
+C:\Users\LeakSun\Documents\Visual Studio 2012\Projects\SADPOS\SADPOS\obj\Debug\SADPOS.Resources.resources
+C:\Users\LeakSun\Documents\Visual Studio 2012\Projects\SADPOS\SADPOS\obj\Debug\SADPOS.SplashScreen1.resources
+C:\Users\LeakSun\Documents\Visual Studio 2012\Projects\SADPOS\SADPOS\obj\Debug\SADPOS.vbproj.GenerateResource.Cache
+C:\Users\LeakSun\Documents\Visual Studio 2012\Projects\SADPOS\SADPOS\bin\Debug\SADPOS.exe
+C:\Users\LeakSun\Documents\Visual Studio 2012\Projects\SADPOS\SADPOS\bin\Debug\SADPOS.pdb
+C:\Users\LeakSun\Documents\Visual Studio 2012\Projects\SADPOS\SADPOS\bin\Debug\SADPOS.xml
+C:\Users\LeakSun\Documents\Visual Studio 2012\Projects\SADPOS\SADPOS\obj\Debug\SADPOS.exe
+C:\Users\LeakSun\Documents\Visual Studio 2012\Projects\SADPOS\SADPOS\obj\Debug\SADPOS.xml
+C:\Users\LeakSun\Documents\Visual Studio 2012\Projects\SADPOS\SADPOS\obj\Debug\SADPOS.pdb
+C:\Users\LeakSun\Documents\Visual Studio 2012\Projects\SADPOS\SADPOS\obj\Debug\SADPOS.LogInScreen.resources
+C:\Users\LeakSun\Documents\Visual Studio 2012\Projects\SADPOS\SADPOS\bin\Debug\Bunifu_UI_v1.5.3.dll
+C:\Users\LeakSun\Documents\Visual Studio 2012\Projects\SADPOS\SADPOS\bin\Debug\Interop.ShockwaveFlashObjects.dll
+C:\Users\LeakSun\Documents\Visual Studio 2012\Projects\SADPOS\SADPOS\bin\Debug\AxInterop.ShockwaveFlashObjects.dll
+C:\Users\LeakSun\Documents\Visual Studio 2012\Projects\SADPOS\SADPOS\obj\Debug\Interop.ShockwaveFlashObjects.dll
+C:\Users\LeakSun\Documents\Visual Studio 2012\Projects\SADPOS\SADPOS\obj\Debug\AxInterop.ShockwaveFlashObjects.dll
+C:\Users\LeakSun\Documents\Visual Studio 2012\Projects\SADPOS\SADPOS\obj\Debug\SADPOS.vbproj.ResolveComReference.cache
+C:\Users\LeakSun\Documents\Visual Studio 2012\Projects\SADPOS\SADPOS\obj\Debug\SADPOS.MainMenu2.resources
+C:\Users\LeakSun\Documents\Visual Studio 2012\Projects\SADPOS\SADPOS\obj\Debug\SADPOS.vbprojResolveAssemblyReference.cache
+C:\Users\LeakSun\Documents\Visual Studio 2012\Projects\SADPOS\SADPOS\bin\Debug\MySql.Data.Entity.EF6.dll
+C:\Users\LeakSun\Documents\Visual Studio 2012\Projects\SADPOS\SADPOS\bin\Debug\MySql.Fabric.Plugin.dll
+C:\Users\LeakSun\Documents\Visual Studio 2012\Projects\SADPOS\SADPOS\bin\Debug\MySql.Data.Entity.EF6.xml
+C:\Users\LeakSun\Documents\Visual Studio 2012\Projects\SADPOS\SADPOS\obj\Debug\SADPOS.purchaseOrderReport.resources
+C:\Users\LeakSun\Documents\Visual Studio 2012\Projects\SADPOS\SADPOS\obj\Debug\SADPOS.receipt.resources
+C:\Users\LeakSun\Documents\Visual Studio 2012\Projects\SADPOS\SADPOS\obj\Debug\SADPOS.salesReport.resources
+C:\Users\LeakSun\Documents\Visual Studio 2012\Projects\SADPOS\SADPOS\obj\Debug\SADPOS.inventoryReport.resources
